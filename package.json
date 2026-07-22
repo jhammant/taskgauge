@@ -3,6 +3,28 @@
   "version": "0.1.0",
   "description": "A complexity-aware effort governor for coding agents",
   "type": "module",
+  "author": "Jon Hammant <jon@hammant.io>",
+  "license": "MIT",
+  "homepage": "https://github.com/jhammant/taskgauge#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhammant/taskgauge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhammant/taskgauge/issues"
+  },
+  "keywords": [
+    "ai",
+    "agents",
+    "coding-agent",
+    "llm",
+    "effort-governor",
+    "complexity",
+    "cost",
+    "quota",
+    "cli",
+    "e3"
+  ],
   "engines": {
     "node": ">=18"
   },
@@ -18,10 +40,10 @@
   },
   "files": [
     "src",
-    "README.md"
+    "README.md",
+    "LICENSE"
   ],
   "scripts": {
     "test": "node --test"
-  },
-  "license": "MIT"
+  }
 }
