@@ -29,7 +29,7 @@
     "node": ">=18"
   },
   "bin": {
-    "taskgauge": "./src/cli.mjs"
+    "taskgauge": "src/cli.mjs"
   },
   "main": "./src/index.mjs",
   "exports": {
