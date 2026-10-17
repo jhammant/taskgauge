@@ -9,7 +9,7 @@ Expand) from the paper "Do AI Agents Know When a Task Is Simple?" (arxiv 2607.13
 difficulty**. Together: spend proportional to *both*.
 
 **Stack:** Node ≥18, ESM (`"type":"module"`), ZERO runtime dependencies, `node --test`.
-This is a standalone repo (`~/dev/taskgauge`) that *integrates with* quotamax but does
+This is a standalone repo (`~/dev/oss/taskgauge`) that *integrates with* quotamax but does
 not depend on it being installed.
 
 ---
